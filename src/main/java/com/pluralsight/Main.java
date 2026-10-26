@@ -45,7 +45,7 @@ public class Main {
             bufReader.close();
         }
         catch(IOException e) {
-            System.out.println(e);
+            //System.out.println(e);
             //e.printStackTrace();
         }
 
